@@ -36,5 +36,12 @@
 	width: 30%;
 
 	margin-top:-93%;
-	margin-left: 45%;
+	margin-left: 45%
+}
+
+#putinMouth{
+	display: block;
+	margin-top: -24%;
+	margin-left: 3%;
+	width:95%;
 }
