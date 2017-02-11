@@ -1,0 +1,32 @@
+#container{
+	display: block;
+	width:100%;
+	height:auto;
+	/*background-imae: url("");*/
+	
+}
+
+#putin{
+	display:block;
+	width:100%;
+	height:auto;
+	margin-top: -44%
+	
+}
+
+#lefteye{
+	display: block;
+	
+	width:5%;
+	margin-top: -56%;
+	margin-left:45%;
+	
+}
+
+#righteye{
+	display:block;
+	width: 5%;
+	margin-top: -5%;
+	margin-left: 58%
+	
+}
