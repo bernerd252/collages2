@@ -20,4 +20,9 @@ app.get('/index.html', function(req, res){
 app.get('/css/style.css', function(req, res){
 		res.sendFile(path.join(__dirname + '/css/style.css'));
 	});
+	
+
+app.get('/js/index.js', function(req, res){
+		res.sendFile(path.join(__dirname + '/js/index.js'));
+	});
 	}
